@@ -2,13 +2,18 @@
 
 """
 
-from prompt_toolkit import prompt
+# from prompt_toolkit import prompt
 
 
-edad= int(prompt("Cuántos años tiene?"))
-if edad <= 18 and edad > 0:
-    print("Usted es menor de edad")
-elif edad < 0:
-    print("Numero incorrecto")
-else:
-    print("usted es mayor de edad")
+# edad= int(prompt("Cuántos años tiene?"))
+# if edad <= 18 and edad > 0:
+#     print("Usted es menor de edad")
+# elif edad < 0:
+#     print("Numero incorrecto")
+# else:
+#     print("usted es mayor de edad")
+
+"""Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces."""
+palabra= input("Ingrese la palabra que necesitas que se repita 10 veces: ")
+for i in range(10):
+    print(palabra)
