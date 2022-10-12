@@ -7,3 +7,11 @@ Para acceder a los signos de menor o mayor que.. presionar las teclas: win + alt
 [] shif + el teclado que esta a la par del enter.
 
 {} el teclado que esta a la par del enter.
+
+
+Antes de cambiar de rama es necesario copiar todo el contenido del main.....
+
+Y para esto utilizamos:
+
+git fetch
+
