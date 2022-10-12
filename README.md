@@ -22,3 +22,5 @@ Cuando ya se subieron los cambios en el branch y se decide subir a la master...
 git checkout main
 
 git merge developp (para este ejemplo y nos servirá para jalar los cambios.)
+
+Para subir los cambios asegurandose que ya se encuentra en el main, ya solo se hace el git push.
